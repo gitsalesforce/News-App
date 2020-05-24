@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+ul,a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+  border:1px solid red;
+  padding:10px;
+
+}
+a:hover{
+  color: blue;
+}
+a{
+  font-size:20px;
+}
